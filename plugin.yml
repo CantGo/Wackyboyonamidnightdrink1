@@ -1,0 +1,11 @@
+name: Sumo
+author: MayTafe
+main: may.acoria.Sumo.Sumo
+version: 1.0
+
+commands:
+  join:
+  sumo:
+  event:
+  adminforcestart:
+  forcestart:
